@@ -1,5 +1,26 @@
-site_name: MkLorum
+site_name: Documentation for ScrumSaga 
+
 pages:
-    - Home: index.md
-    - About: about.md
+    - Home: Index.md
+    - Quick Start: QuickStart.md
+    - Introduction: Intro.md
+    - Use Cases: UseCases.md
+    - Overview:
+      - Components: 'OverView/Components.md'        
+      - Deployment: 'OverView/Deployment.md'
+      - Integration: 'OverView/Integration.md'
+    - User Guide: 
+      - SS-API: UserGuide/SS-API.md
+      - SS-Enterprise: UserGuide/SS-Enterprise.md
+      - Module Algorithms: UserGuide/Algorithms.md
+      - Open Tools: UserGuide/Open.md
+    - Technical Reference: 
+      - Empirical Software Engineering: EmpSwEng.md
+      - Data Science: DataScience.md
+      - Literature Review: LitReview.md
+    - About:
+      - License: 'About/License.md'
+      - Release Notes: 'About/ReleaseNotes.md'
+      - IMT: 'IMT.md'
+
 theme: readthedocs
