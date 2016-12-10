@@ -6,21 +6,21 @@ pages:
     - Introduction: Intro.md
     - Use Cases: UseCases.md
     - Overview:
-      - Components: 'OverView/Components.md'        
-      - Deployment: 'OverView/Deployment.md'
-      - Integration: 'OverView/Integration.md'
+      - Components: OverView/Components.md        
+      - Deployment: OverView/Deployment.md
+      - Integration: OverView/Integration.md
     - User Guide: 
       - SS-API: UserGuide/SS-API.md
       - SS-Enterprise: UserGuide/SS-Enterprise.md
       - Module Algorithms: UserGuide/Algorithms.md
       - Open Tools: UserGuide/Open.md
     - Technical Reference: 
-      - Empirical Software Engineering: EmpSwEng.md
-      - Data Science: DataScience.md
-      - Literature Review: LitReview.md
+      - Empirical Software Engineering: TechRef/EmpSwEng.md
+      - Data Science: TechRef/DataScience.md
+      - Literature Review: TechRef/LitReview.md
     - About:
-      - License: 'About/License.md'
-      - Release Notes: 'About/ReleaseNotes.md'
-      - IMT: 'IMT.md'
+      - License: About/License.md
+      - Release Notes: About/ReleaseNotes.md
+      - IMT: About/IMT.md
 
 theme: readthedocs
