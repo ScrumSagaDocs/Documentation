@@ -3,18 +3,128 @@
 
     
     <url>
-     <loc>/</loc>
-     <lastmod>2016-12-09</lastmod>
+     <loc>/Index/</loc>
+     <lastmod>2016-12-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/about/</loc>
-     <lastmod>2016-12-09</lastmod>
+     <loc>/QuickStart/</loc>
+     <lastmod>2016-12-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+    <url>
+     <loc>/Intro/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/UseCases/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>/OverView/Components/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/OverView/Deployment/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/OverView/Integration/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/UserGuide/SS-API/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/UserGuide/SS-Enterprise/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/UserGuide/Algorithms/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/UserGuide/Open/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/TechRef/EmpSwEng/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/TechRef/DataScience/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/TechRef/LitReview/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/About/License/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/About/ReleaseNotes/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/About/IMT/</loc>
+     <lastmod>2016-12-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
