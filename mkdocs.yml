@@ -1,26 +1,26 @@
-site_name: Documentation for ScrumSaga 
+site_name: ScrumSaga Documentation
 
 pages:
-    - Home: Index.md
-    - Quick Start: QuickStart.md
-    - Introduction: Intro.md
-    - Use Cases: UseCases.md
-    - Overview:
-      - Components: OverView/Components.md        
-      - Deployment: OverView/Deployment.md
-      - Integration: OverView/Integration.md
-    - User Guide: 
-      - SS-API: UserGuide/SS-API.md
-      - SS-Enterprise: UserGuide/SS-Enterprise.md
-      - Module Algorithms: UserGuide/Algorithms.md
-      - Open Tools: UserGuide/Open.md
-    - Technical Reference: 
-      - Empirical Software Engineering: TechRef/EmpSwEng.md
-      - Data Science: TechRef/DataScience.md
-      - Literature Review: TechRef/LitReview.md
-    - About:
-      - License: About/License.md
-      - Release Notes: About/ReleaseNotes.md
-      - IMT: About/IMT.md
+    - 'Home': 'index.md'
+    - 'Quick Start': 'quick_start.md'
+    - 'Introduction': 'intro.md'
+    - 'Use Cases': 'use_cases.md'
+    - 'Overview':
+      - 'Components': 'OverView/components.md  '      
+      - 'Deployment': 'OverView/deployment.md'
+      - 'Integration': 'OverView/integration.md'
+    - 'User Guide': 
+      - 'SS-API': 'UserGuide/ss-api.md'
+      - 'SS-Enterprise': 'UserGuide/ss-enterprise.md'
+      - 'Module Algorithms': 'UserGuide/algorithms.md'
+      - 'Open Tools': 'UserGuide/open.md'
+    - 'Technical Reference': 
+      - 'Empirical Software Engineering': 'TechRef/emp_sw_eng.md'
+      - 'Data Science': 'TechRef/data_science.md'
+      - 'Literature Review': 'TechRef/lit_review.md'
+    - 'About':
+      - 'License': 'About/license.md'
+      - 'Release Notes': 'About/release_notes.md'
+      - 'IMT': 'About/imt.md'
 
 theme: readthedocs
