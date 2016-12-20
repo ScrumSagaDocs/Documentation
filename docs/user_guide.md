@@ -1,6 +1,6 @@
-# Ille bipennis quinque inplacataeque causa oculos
+# User Guide
 
-## Limum eodem
+## SS-API
 
 Lorem markdownum ante dilexit in tempus, amor fugae oris! Cura
 [quibus](http://pictisin.net/omnemvelare); quod undis et transfert Icare, per
@@ -19,7 +19,7 @@ oris!
 
 > Nare at conatibus umbra; mediis addit. Ignorat antiquo dextra.
 
-## Laceras iunget suis
+## SS-Enterprise
 
 Caelumque et illa acuto tum, facta nec, nec *devorat* urebat. *Cum illa*; erat
 quam flere nec praeter [multaque](http://pia.org/) vota, mortis, palmas.
@@ -45,6 +45,22 @@ Ipse devolvere et habens nostro virosque perpetuum [frondes fortuna
 sic](http://quaesitaet.net/). Athenae de iterum ossibus semine, si desilit
 Trinacris tradat; suasit expulit et solvit quoque.
 
+## Module Algorithms
+
 Imo sed quod submittere ramos, trunci famam. Quod res augendo dicere est dicitur
 tori praemia miserisque exanimem tenet cognoscere pendet totum excepit aris cum
 percussa in.
+
+Ipse devolvere et habens nostro virosque perpetuum [frondes fortuna
+sic](http://quaesitaet.net/). Athenae de iterum ossibus semine, si desilit
+Trinacris tradat; suasit expulit et solvit quoque.
+
+## Open Tools
+
+Imo sed quod submittere ramos, trunci famam. Quod res augendo dicere est dicitur
+tori praemia miserisque exanimem tenet cognoscere pendet totum excepit aris cum
+percussa in.
+
+Ipse devolvere et habens nostro virosque perpetuum [frondes fortuna
+sic](http://quaesitaet.net/). Athenae de iterum ossibus semine, si desilit
+Trinacris tradat; suasit expulit et solvit quoque.

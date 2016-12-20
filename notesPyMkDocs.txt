@@ -1,0 +1,49 @@
+
+
+REFERENCES
+http://www.mkdocs.org/
+
+
+# Install
+> cd C:\Users\Jason\Desktop\prjWebApp\GitHub
+> pip install mkdocs
+
+> mkdocs new scrumsaga
+> cd scrumsaga
+> mkdocs serve		# in same dir as mkdocs.yml
+	# view changes while editing
+
+# Modify
+> curl 'https://jaspervdj.be/lorem-markdownum/markdown.txt' > docs/about.md 	# make a second page
+
+
+# Deploy
+> mkdocs build		# exported to /site
+> mkdocs gh-deploy
+	# output displays at: https://IMTorg.github.io/ScrumSaga-Documentation/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -5,22 +5,9 @@ pages:
     - 'Quick Start': 'quick_start.md'
     - 'Introduction': 'intro.md'
     - 'Use Cases': 'use_cases.md'
-    - 'Overview':
-      - 'Components': 'OverView/components.md  '      
-      - 'Deployment': 'OverView/deployment.md'
-      - 'Integration': 'OverView/integration.md'
-    - 'User Guide': 
-      - 'SS-API': 'UserGuide/ss-api.md'
-      - 'SS-Enterprise': 'UserGuide/ss-enterprise.md'
-      - 'Module Algorithms': 'UserGuide/algorithms.md'
-      - 'Open Tools': 'UserGuide/open.md'
-    - 'Technical Reference': 
-      - 'Empirical Software Engineering': 'TechRef/emp_sw_eng.md'
-      - 'Data Science': 'TechRef/data_science.md'
-      - 'Literature Review': 'TechRef/lit_review.md'
-    - 'About':
-      - 'License': 'About/license.md'
-      - 'Release Notes': 'About/release_notes.md'
-      - 'IMT': 'About/imt.md'
+    - 'Overview': 'overview.md'
+    - 'User Guide': 'user_guide.md'
+    - 'Technical Reference': 'tech_ref.md'
+    - 'About': 'about.md'
 
 theme: readthedocs

@@ -1,45 +1,36 @@
-# Ille bipennis quinque inplacataeque causa oculos
+# Quick Start
 
-## Limum eodem
+## GUI: Account Setup and Management
+Users must have a ScrumSaga account before using the API.  The account signup occurs, [here](/signup)  At this time, users must also have a [GitHub](https://github.com) account.  The API can perform ETL on any repo associated with the specific GitHub account.  Take care that repos in [GitHub Organizations](https://github.com/blog/674-introducing-organizations) will not be reachable unless the Organization is used as an account (??? correct).
 
-Lorem markdownum ante dilexit in tempus, amor fugae oris! Cura
-[quibus](http://pictisin.net/omnemvelare); quod undis et transfert Icare, per
-negate illic, nec tetendi ossa **quantum**. Quoque qua nec, formas cur formosa
-aliter spinae illa solida fatigat mihi dicentem
-[moenia](http://retro-infelicem.io/)? Mulcebat ultro de milite ad mite situsque
-at postquam Luna [inpleratque](http://www.supplexdeducit.org/caelo), cornicis
-germani, superas.
+Once a ScrumSaga account is created and the user is [logged-in](/login), all account managment is performed in the user menu portal.  This provides a place for listing projects, diagrams, and previous work.  It also displays users' current membership type and data limits.
 
-At vidit, a medios pectora servaberis fraude oculos, fors fessa potuisse longis
-pendebat **poscis patriosque in** servat inrita. Ergo quoque exsangues Midae
-Cipe adrectisque, suo aequor arbor inducere? Fumo grandaevus, partim, luce amor
-tibi vel **vixque ambobus remissis**, prementem Vix, ego fervet; tunc! Inventa
-tamen cum bella, veri Ulixem sub causas, cervos qua lacrimas pressos dolore,
-oris!
-
-> Nare at conatibus umbra; mediis addit. Ignorat antiquo dextra.
-
-## Laceras iunget suis
-
+## API
+This tutorial uses python with the [ScrumSagaAPIWrapper](https://github.com/IMTorgCustomSoln/ScrumSagaAPI).  Additional language wrappers are currently in development.  While certainly not necessary, [Jupyter Notebooks](http://jupyter.org/) are a very useful data science tool for multiple languages, and will be used by this site for creating reports.
+ 
+### Account Token
 Caelumque et illa acuto tum, facta nec, nec *devorat* urebat. *Cum illa*; erat
 quam flere nec praeter [multaque](http://pia.org/) vota, mortis, palmas.
 
+### Project Extraction
+Caelumque et illa acuto tum, facta nec, nec *devorat* urebat. *Cum illa*; erat
+quam flere nec praeter [multaque](http://pia.org/) vota, mortis, palmas.
+
+### Project Transform
+Caelumque et illa acuto tum, facta nec, nec *devorat* urebat. *Cum illa*; erat
+quam flere nec praeter [multaque](http://pia.org/) vota, mortis, palmas.
+
+### Project Load
+Caelumque et illa acuto tum, facta nec, nec *devorat* urebat. *Cum illa*; erat
+quam flere nec praeter [multaque](http://pia.org/) vota, mortis, palmas.
+
+### Portfolio
 Formosae et sua et animus cupido colloque, in leves mixta pro in magnorum
 causas. Modo nato misso [nigrior](http://ante.com/iranos.php) ab, in nulla ne
 aquis in vacca. Habebat pugnae annorum, altum, meditata, maxima ille membra et
 magna.
 
-    adwareAlertItunes += olap;
-    if (4 == 36) {
-        favoritesCdma.backlinkScrapingOffline = bootModemVdsl;
-    } else {
-        heapFolder += realUsernameShell.exbibyte_bar(token_white,
-                tweakPiracyOcr) - mtuUser;
-        day_sdram_net = isa_link_art.tcpDevice(winsock_room_primary,
-                boxCybersquatter);
-    }
-    session_gateway(basic, diskJqueryCpl);
-    wave_clipboard -= -2;
+## Diagramming
 
 Ipse devolvere et habens nostro virosque perpetuum [frondes fortuna
 sic](http://quaesitaet.net/). Athenae de iterum ossibus semine, si desilit

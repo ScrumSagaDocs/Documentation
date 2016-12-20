@@ -1,17 +1,28 @@
-# MkLorum
+# ScrumSaga Documentation
+**_The story of your software_**
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+[ScrumSaga](http://scrumsaga.com) is a data science platform for supporting technology decisions.  Currently, both industry and individual developers make many of their technology decisions on 'gut feelings' and anecdotal evidence.  Those without many years of experience in a particular skillset (language, framework, etc.) are wholly reliant on others for their understanding.  This is costly and unnecessary because there are large amounts of unstructured data readily available, though not easily obtainable in a useable, structured form; or understood without proper training.  ScrumSaga creates a community of data, tools, and research to purvey technology knowledge.
 
-## Commands
+## Typical Use Cases
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+These are a few of the problems decision-makers face, daily:
 
-## Project layout
+* Which frameworks best support this project? 
+* What are the consequences of investing in this language?
+* Does our team perform better using this new process? 
+* How should we best approach this project, architecturally?
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## How it works
+
+The ScrumSaga platform focuses on the Extraction, Transform, and Loading of useable data from unstructured source code, within a version control system.  It also supports sophisticated visualization of code.  The three main systems that compose the platform, include:
+
+* Pulvr - data extraction, transform, load
+* SagaMap - diagramming and visualization
+* EverestViewer - customized solution for general audience 
+
+Additional components provide ancillary functionality, such as:
+
+* visualization
+* interaction
+* additional code filters
+* user-defined code patterns
