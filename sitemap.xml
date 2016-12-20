@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2016-12-10</lastmod>
+     <lastmod>2016-12-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
      <loc>/quick_start/</loc>
-     <lastmod>2016-12-10</lastmod>
+     <lastmod>2016-12-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
      <loc>/intro/</loc>
-     <lastmod>2016-12-10</lastmod>
+     <lastmod>2016-12-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,103 +28,41 @@
     
     <url>
      <loc>/use_cases/</loc>
-     <lastmod>2016-12-10</lastmod>
+     <lastmod>2016-12-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
-        
     <url>
-     <loc>/OverView/components/</loc>
-     <lastmod>2016-12-10</lastmod>
+     <loc>/overview/</loc>
+     <lastmod>2016-12-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>/OverView/deployment/</loc>
-     <lastmod>2016-12-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/OverView/integration/</loc>
-     <lastmod>2016-12-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
     
-        
     <url>
-     <loc>/UserGuide/ss-api/</loc>
-     <lastmod>2016-12-10</lastmod>
+     <loc>/user_guide/</loc>
+     <lastmod>2016-12-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>/UserGuide/ss-enterprise/</loc>
-     <lastmod>2016-12-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/UserGuide/algorithms/</loc>
-     <lastmod>2016-12-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/UserGuide/open/</loc>
-     <lastmod>2016-12-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
     
-        
     <url>
-     <loc>/TechRef/emp_sw_eng/</loc>
-     <lastmod>2016-12-10</lastmod>
+     <loc>/tech_ref/</loc>
+     <lastmod>2016-12-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>/TechRef/data_science/</loc>
-     <lastmod>2016-12-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/TechRef/lit_review/</loc>
-     <lastmod>2016-12-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
     
-        
     <url>
-     <loc>/About/license/</loc>
-     <lastmod>2016-12-10</lastmod>
+     <loc>/about/</loc>
+     <lastmod>2016-12-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>/About/release_notes/</loc>
-     <lastmod>2016-12-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/About/imt/</loc>
-     <lastmod>2016-12-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
 </urlset>
